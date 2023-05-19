@@ -1,0 +1,20 @@
+{
+    "Zend\/bench.php": {
+        "instructions": "2238734134"
+    },
+    "Zend\/bench.php JIT": {
+        "instructions": "605308545"
+    },
+    "Symfony Demo 2.2.3": {
+        "instructions": "40816821"
+    },
+    "Symfony Demo 2.2.3 JIT": {
+        "instructions": "35716842"
+    },
+    "Wordpress 6.2": {
+        "instructions": "124602245"
+    },
+    "Wordpress 6.2 JIT": {
+        "instructions": "94376598"
+    }
+}
