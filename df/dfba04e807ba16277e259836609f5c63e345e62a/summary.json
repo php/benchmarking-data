@@ -1,0 +1,21 @@
+{
+    "branch": "master",
+    "Zend\/bench.php": {
+        "instructions": "2232871893"
+    },
+    "Zend\/bench.php JIT": {
+        "instructions": "599515240"
+    },
+    "Symfony Demo 2.2.3": {
+        "instructions": "39084673"
+    },
+    "Symfony Demo 2.2.3 JIT": {
+        "instructions": "34010181"
+    },
+    "Wordpress 6.2": {
+        "instructions": "122562759"
+    },
+    "Wordpress 6.2 JIT": {
+        "instructions": "93560046"
+    }
+}
