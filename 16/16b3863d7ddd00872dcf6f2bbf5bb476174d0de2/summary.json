@@ -3,21 +3,26 @@
     "Zend\/bench.php": {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "instructions": "2235520724"
+=======
+        "instructions": "2235520681"
+>>>>>>> Stashed changes
     },
     "Zend\/bench.php JIT": {
-        "instructions": "604627060"
+        "instructions": "604627082"
     },
     "Symfony Demo 2.2.3": {
-        "instructions": "39170698"
+        "instructions": "39171469"
     },
     "Symfony Demo 2.2.3 JIT": {
-        "instructions": "33665660"
+        "instructions": "33397436"
     },
     "Wordpress 6.2": {
         "instructions": "123299738"
     },
     "Wordpress 6.2 JIT": {
+<<<<<<< Updated upstream
         "instructions": "94202746"
 =======
         "instructions": "2235520723"
@@ -54,6 +59,9 @@
     },
     "Wordpress 6.2 JIT": {
         "instructions": "94202453"
+>>>>>>> Stashed changes
+=======
+        "instructions": "94202596"
 >>>>>>> Stashed changes
     }
 }
