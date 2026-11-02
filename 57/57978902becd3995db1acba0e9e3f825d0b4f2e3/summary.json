@@ -1,6 +1,7 @@
 {
     "branch": "PHP-8.6",
     "Zend\/bench.php": {
+<<<<<<< Updated upstream
         "instructions": "2239625091"
     },
     "Zend\/bench.php JIT": {
@@ -17,5 +18,23 @@
     },
     "Wordpress 6.2 JIT": {
         "instructions": "96194265"
+=======
+        "instructions": "2239625248"
+    },
+    "Zend\/bench.php JIT": {
+        "instructions": "606867676"
+    },
+    "Symfony Demo 2.2.3": {
+        "instructions": "39662203"
+    },
+    "Symfony Demo 2.2.3 JIT": {
+        "instructions": "34464511"
+    },
+    "Wordpress 6.2": {
+        "instructions": "125128885"
+    },
+    "Wordpress 6.2 JIT": {
+        "instructions": "96194309"
+>>>>>>> Stashed changes
     }
 }
